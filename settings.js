@@ -43,7 +43,7 @@ global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
-global.vidmenu = fs.readFileSync("./XeonMedia/theme/Cheems-bot.mp4") //gif and video menu
+global.vidmenu = fs.readFileSync("https://blog.ceo.org.pl/tag/godzina-wychowawcza/?w=5.1.91395.3.26.36.cartoon+me+anime") //gif and video menu
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['94717013791'] //ur owner number
+global.ownername = "🦄DINITHA_THARUSHAN" //ur owner name
+global.ytname = "YT: DT__" //ur yt chanel name
+global.socialm = "GitHub: DT__" //ur github or insta name
+global.location = "sri lanka" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.owner = ['94717013791']
+global.ownertag = '94717013791' //ur tag number
+global.botname = 'Queen Alisa' //ur bot name
+global.linkz = "https://www.youtube.com/channel/UC_vsiWjfmi4qRSGGZmOy2bQ/featured" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.youtube.com/channel/UC_vsiWjfmi4qRSGGZmOy2bQ/featured" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.packname = "Queen Alisa Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "🦄Queen Alisa" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
